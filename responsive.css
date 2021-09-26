@@ -1,0 +1,252 @@
+@media(max-width:1440px) {
+   .header {
+      width: 100%;
+      max-width: 100%;
+   }
+}
+
+@media(max-width:1024px) {
+
+   .header-menu ul li a {
+
+      padding: 0 20px;
+      line-height: 84px;
+
+   }
+
+   .logo {
+      text-align: left !important;
+  }
+   .socal-icon a {
+      height: 40px;
+      width: 40px;
+      line-height: 40px;
+
+   }
+   .w-50 {
+      width: 75%!important;
+  }
+
+   .logo {
+      text-align: center;
+   }
+
+   img {
+      max-width: 150px;
+   }
+}
+
+@media(max-width:768px) {
+   .col-md-8 {
+
+      width: 100%;
+   }
+
+   .header-menu ul li a {
+
+      padding: 0 25px;
+      border: none;
+
+
+   }
+   img {
+      max-width: 150px;
+      
+  }
+   .header-menu ul {
+      text-align: center;
+      padding: 0;
+  }
+  .logo {
+   text-align: center !important;
+}
+
+   .col-md-4 {
+      flex: 0 0 auto;
+      width: 100%;
+   }
+
+   .banner {
+
+      padding: 150px 0;
+   }
+
+   .banner-contant h1 {
+      font-size: 35px;
+
+   }
+
+   .banner-contant h2 {
+      font-size: 30px;
+
+   }
+
+   .w-50 {
+      width: 75% !important;
+   }
+
+   .footer p {
+
+      font-size: 18px;
+   }
+
+   .socal-icon a {
+      height: 35px;
+      width: 35px;
+      line-height: 35px;
+      font-size: 20px;
+   }
+}
+
+@media(max-width:425px) {
+
+
+   .header-menu ul li a {
+      padding: 0 6px;
+      border: none;
+      font-size: 17px;
+   }
+
+   img {
+      max-width: 123px;
+   }
+
+   .banner {
+      padding: 35px 0;
+   }
+
+   .banner-contant h1 {
+      font-size: 27px;
+      width: 320px;
+   }
+
+   .banner-contant h2 {
+      font-size: 20px;
+      width: 320px;
+   }
+
+   .about-contant p {
+      font-size: 13px;
+   }
+
+   .work-item {
+      padding: 20px 20px;
+
+   }
+
+   .work-item h3 {
+      font-size: 22px;
+
+   }
+
+   .work-item span {
+      height: 45px;
+      width: 45px;
+      font-size: 27px;
+      line-height: 25px;
+
+   }
+
+   p {
+      font-size: 16px;
+   }
+
+   .contact-right {
+      margin-top: 20px;
+   }
+
+   .blog-img {
+      text-align: center;
+      margin-bottom: 15px;
+   }
+
+   p {
+      font-size: 13px;
+   }
+
+   .contact-heading h3 {
+
+      font-size: 35px;
+   }
+
+   .footer p {
+      font-size: 15px;
+      text-align: center;
+   }
+
+   .socal-icon a {
+      height: 28px;
+      width: 28px;
+      line-height: 29px;
+      font-size: 17px;
+   }
+
+   .socal-icon {
+      text-align: center;
+   }
+}
+
+@media(max-width:375px) {
+   .header-menu ul {
+      text-align: center;
+      padding: 0;
+   }
+
+   .header-menu ul li a {
+      padding: 0 5px;
+      border: none;
+      font-size: 15px;
+   }
+
+   img {
+      max-width: 106px;
+   }
+}
+
+@media(max-width:320px) {
+   .header-menu ul li a {
+      padding: 0 6px;
+      border: none;
+      font-size: 13px;
+   }
+
+   .banner {
+      padding: 25px 0;
+   }
+
+   .banner-contant h1 {
+      font-size: 20px;
+      width: 260px;
+   }
+
+   .banner-contant h2 {
+      font-size: 15px;
+      width: 238px;
+      margin-top: 20px;
+   }
+
+   .work-item h3 {
+      font-size: 18px;
+   }
+
+   .work-item span {
+      height: 35px;
+      width: 35px;
+      font-size: 20px;
+      line-height: 17px;
+      border-radius: 5px;
+   }
+
+   .work-item {
+      padding: 20px 20px;
+      margin: 15px 0 !important;
+   }
+
+   img {
+      max-width: 150px;
+   }
+
+   img {
+      max-width: 125px;
+   }
+}
